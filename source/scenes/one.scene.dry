@@ -2,8 +2,11 @@ title: Scene One
 new-page: true
 tags: top
 
-This is the first scene of "Dendry-starter-pack". From this point, you can add
-further scenes and choices to flesh out your game.
+A young girl lay on her bed, sleeping quietly, neatly, and tidily, 
+as the sun rose to shine its light through the window. That was the case
+every morning, in the idyllic house and town she lived in. 
+
+Slowly and steadily, she opened her eyes.
 
 # This goes directly to the hand scene.
 - @hand
