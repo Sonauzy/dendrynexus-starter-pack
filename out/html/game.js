@@ -170,6 +170,7 @@
 
   window.hideSidebarAndNotebook = function() {
     document.getElementById('stats_sidebar').style.display = 'none';
+}
 
   window.showSidebarAndNotebook = function() {
     document.getElementById('stats_sidebar').style.display = '';
