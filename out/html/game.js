@@ -168,6 +168,14 @@
       window.updateSidebar();
   };
 
+  window.hideSidebarAndNotebook = function() {
+    document.getElementById('stats_sidebar').style.display = 'none';
+
+  window.showSidebarAndNotebook = function() {
+    document.getElementById('stats_sidebar').style.display = '';
+
+};
+
   window.justLoaded = true;
   window.dendryModifyUI = main;
   console.log("Modifying stats: see dendryUI.dendryEngine.state.qualities");
